@@ -75,7 +75,7 @@ CREATE TABLE studentinfo (
 );
 ```
 
-<img src="D:\笔记\img\约束.png" alt="约束" style="zoom:50%;" align="left" />
+<img src=".\img\约束.png" alt="约束" style="zoom:50%;" align="left" />
 
 #### 表级约束
 
@@ -96,7 +96,7 @@ CREATE TABLE studentinfo(
 
 ```
 
-<img src ="D:\笔记\img\表级约束.png" style="zoom:50%;" align="left"/>
+<img src =".\img\表级约束.png" style="zoom:50%;" align="left"/>
 
 #### 设置约束通用写法
 
@@ -205,7 +205,7 @@ drop view  视图名
 
 desc  视图名
 
-<img src="D:\笔记\img\视图.png"  alt="约束" style="zoom:50%;" align="left" />
+<img src=".\img\视图.png"  alt="约束" style="zoom:50%;" align="left" />
 
 
 
