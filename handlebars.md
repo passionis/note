@@ -2,7 +2,7 @@
 
 安装使用hbs 
 
-[handlebars下载地址]: http://builds.handlebarsjs.com.s3.amazonaws.com/bucket-listing.html?sort=lastmod&amp;sortdir=desc	"下载地址"
+[handlebars下载地址]( http://builds.handlebarsjs.com.s3.amazonaws.com/bucket-listing.html?sort=lastmod&amp;sortdir=desc  "下载地址")
 
 ## 理解
 
