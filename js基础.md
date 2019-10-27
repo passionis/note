@@ -330,9 +330,9 @@ body.eat();
 
 #### this
 
-##### 1. 方法中的this ---这个方法所属的对象
-##### 2. 类的构造方法中 ---- 指向对象
-##### 3. 函数中的this  --指向window
+1. 方法中的this ---这个方法所属的对象
+2. 类的构造方法中 ---- 指向对象
+3. 函数中的this  --指向window
 
 #### 遍历对象属性 for  in 
 
@@ -349,10 +349,7 @@ for (const key in obj) {
     console.log(key + "----" + obj[key]);
 }
 ```
-
-
-
-[前端文档]: https://developer.mozilla.org/zh-CN/	"前端文档"
+[前端文档地址]（ https://developer.mozilla.org/zh-CN/ ）
 
 ### 内置对象
 
