@@ -349,7 +349,7 @@ for (const key in obj) {
     console.log(key + "----" + obj[key]);
 }
 ```
-[前端文档地址]（ https://developer.mozilla.org/zh-CN/ ）
+[前端文档]( https://developer.mozilla.org/zh-CN/  "前端api")
 
 ### 内置对象
 
